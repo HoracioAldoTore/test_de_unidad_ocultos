@@ -26,3 +26,5 @@ Esta técnica es ideal para docentes que preparan exámenes prácticos con TDD (
 8-Agregar en "TestsProxy" la referencia al proyecto "AppParcial1"   
 9-Remover Parcial1.Tests de la solución.   
 10-Remover Parcial1.Tests del file system.
+
+[Ver video explicativo en YouTube](https://www.youtube.com/watch?v=paR5BjC982U)
