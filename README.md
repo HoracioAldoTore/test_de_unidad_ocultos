@@ -1,4 +1,4 @@
-# test_de_unidad_ocultos
+# Como ocultar el código fuente de los tests unitarios, pero sin anular su ejecución.
 
 ¿Necesitas compartir pruebas unitarias (unit test) sin que los desarrolladores de tu equipo o tus alumnos o la IA, puedan acceder al código fuente? 
 
@@ -14,9 +14,7 @@ Esta técnica es ideal para docentes que preparan exámenes prácticos con TDD (
 - Cómo referenciar el proyecto a evaluar y eliminar el código fuente original (de la solución y del sistema de archivos).
 - Verificación y ejecución en el Test Explorer sin acceso al código.
 
-**Como ocultar el código fuente de los tests unitarios, pero sin anular su ejecución.**
-
-**Pasoa a paso.**
+# Pasoa a paso.
 
 1-Copiar el directorio donde está el código fuente "AppParcial1 (Visible)" a "AppParcial1 (Oculto)".   
 2-Generar Parcial1.Tests.dll   
