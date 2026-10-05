@@ -15,7 +15,9 @@ Esta técnica es ideal para docentes que preparan exámenes prácticos con TDD (
 - Verificación y ejecución en el Test Explorer sin acceso al código.
 
 **Como ocultar el código fuente de los tests unitarios, pero sin anular su ejecución.**
+
 **Pasoa a paso.**
+
 1-Copiar el directorio donde está el código fuente "AppParcial1 (Visible)" a "AppParcial1 (Oculto)".   
 2-Generar Parcial1.Tests.dll   
 3-Crear un nuevo proyecto de test, llamado "TestsProxy"   
